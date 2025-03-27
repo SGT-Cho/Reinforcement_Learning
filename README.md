@@ -21,7 +21,7 @@ A collection of reinforcement learning experiments and projects, including class
 ```bash
 cd MadMario
 python ppo_mario_multi.py
-
+```
 
 
 ⸻
@@ -56,7 +56,7 @@ pip install gym[box2d] gym-retro
 ⸻
 
 📦 Folder Structure
-
+```
 Reinforcement_Learning/
 ├── MadMario/
 │   ├── ppo_mario_multi.py
@@ -67,7 +67,7 @@ Reinforcement_Learning/
 │   └── ...
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ⸻
