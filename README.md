@@ -13,7 +13,7 @@ A collection of reinforcement learning experiments and projects, including class
 ### 🔸 `MadMario/`
 > PPO-based multi-process training setup for Super Mario Bros using OpenAI Gym Retro.
 
-- `ppo_mario_multi.py`: main training script  
+- `main2.py`: main training script  
 - `utils/`: environment wrappers and helper functions  
 - Pretrained model: (external link if large)
 
