@@ -20,7 +20,7 @@ A collection of reinforcement learning experiments and projects, including class
 **▶️ Run Example:**
 ```bash
 cd MadMario
-python ppo_mario_multi.py
+python main2.py
 ```
 
 
